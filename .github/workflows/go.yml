@@ -36,4 +36,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build
-      run: go build -v maing.go
+      run: go build -v main.go
